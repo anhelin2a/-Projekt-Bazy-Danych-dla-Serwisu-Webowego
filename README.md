@@ -17,6 +17,9 @@ F: Usuwanie i tworzenie funkcji.
 G: Usuwanie i tworzenie tabel.  
 H: Tworzenie procedur do obsługi logowania użytkowników.  
 
+<img width="1007" alt="image" src="https://github.com/anhelin2a/-Projekt-Bazy-Danych-dla-Serwisu-Webowego/assets/123561929/c2d04024-7ff0-4176-85bc-d1e48c38be30">
+
+
 ## Obsługa Logowania i Rejestracji Użytkowników
 
 Projekt zawiera procedury składowane do obsługi logowania i rejestracji użytkowników:
